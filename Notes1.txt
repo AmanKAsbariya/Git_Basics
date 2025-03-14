@@ -1,0 +1,5 @@
+Git is a distributed version control system. It simplifies developer task.
+Using git we can easily track code history , collaborate with teams. 
+Git is a client software
+GitHub is a server used to store and maintain codebase.
+  
