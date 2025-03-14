@@ -1,0 +1,4 @@
+Git Branch commands
+git branch #check branch
+git branch dev #create new branch here dev
+git checkout dev #switch branch from default to dev
