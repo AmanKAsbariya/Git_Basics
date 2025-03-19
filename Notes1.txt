@@ -4,3 +4,12 @@ Git is a client software
 GitHub is a server used to store and maintain codebase.
 Other Git Server are Gitlab , Bitbucket.
   
+Git has three stages 
+Working Area
+Staging Area
+Local Area
+
+To go from Working area to staging area use git add . 
+To go from Staging area to Local area use git commit -m "useful message"
+
+To push code from local to remote use git push
